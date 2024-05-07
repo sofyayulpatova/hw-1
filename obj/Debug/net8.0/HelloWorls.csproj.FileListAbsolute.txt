@@ -1,0 +1,14 @@
+/Users/sofya/Downloads/untitled folder/HelloWorls/bin/Debug/net8.0/HelloWorls
+/Users/sofya/Downloads/untitled folder/HelloWorls/bin/Debug/net8.0/HelloWorls.deps.json
+/Users/sofya/Downloads/untitled folder/HelloWorls/bin/Debug/net8.0/HelloWorls.runtimeconfig.json
+/Users/sofya/Downloads/untitled folder/HelloWorls/bin/Debug/net8.0/HelloWorls.dll
+/Users/sofya/Downloads/untitled folder/HelloWorls/bin/Debug/net8.0/HelloWorls.pdb
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.AssemblyInfoInputs.cache
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.AssemblyInfo.cs
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.csproj.CoreCompileInputs.cache
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.dll
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/refint/HelloWorls.dll
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.pdb
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/HelloWorls.genruntimeconfig.cache
+/Users/sofya/Downloads/untitled folder/HelloWorls/obj/Debug/net8.0/ref/HelloWorls.dll
